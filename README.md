@@ -1,4 +1,4 @@
-Demo: https://fullstacks-of-trash-final.herokuapp.com/
+#Trash Shopper
 
 Fullstack of Trash E-Commerce Project
 
