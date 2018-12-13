@@ -1,17 +1,7 @@
-#Trash Shopper
+# Trash Shopper
 
-Fullstack of Trash E-Commerce Project
+One person's trash is another person's treasure.
 
-Current State: Project is fully functional minus the missing Stripe api keys if forked and a few minor bugs
+A full-stack e-commerce website built using SQL, Postgres, Sequelize, Node, Express, Stripe payment processing integration, Token authentication, React, Redux, and Material-UI.
 
-Relevant Technologies
-Frontend: React.js, Redux.js, React-Redux, Material-UI, Stripe React Components
-Backend: Postgres, Sequelize.js, Express.js, Stripe (Payment Processing)
-
-
-Designed and developed by:
-
-Jarret Rose
-Cang Truong
-Zijian Yan
-Harry Chen
+Built by Zijian Yan, Cang Truong, Jarret Rose, and Harry Chen.
